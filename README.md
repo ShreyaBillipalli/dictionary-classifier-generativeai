@@ -54,7 +54,7 @@ We explored this by comparing two approaches:
 ## 🔗 Key Link from the Report
 
 📝 **Interactive Notion Report**  
-[Open in Notion](https://www.notion.so/gAI-Text-Classification-Project-Final-Project-abc123xyz456)
+[Open in Notion][(https://www.notion.so/gAI-Text-Classification-Project-Final-Project-abc123xyz456)](https://basalt-pufferfish-151.notion.site/gAI-Text-Classification-Project-Final-Project-242de4665f6080b4b35fc508d4dd5c56)
 
 ---
 
